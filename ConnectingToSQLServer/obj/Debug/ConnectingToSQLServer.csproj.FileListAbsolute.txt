@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\ConnectingToSQLServer\ConnectingToSQLServer\bin\Debug\ConnectingToSQLServer.exe.config
+C:\Users\User\source\repos\ConnectingToSQLServer\ConnectingToSQLServer\bin\Debug\ConnectingToSQLServer.exe
+C:\Users\User\source\repos\ConnectingToSQLServer\ConnectingToSQLServer\bin\Debug\ConnectingToSQLServer.pdb
+C:\Users\User\source\repos\ConnectingToSQLServer\ConnectingToSQLServer\obj\Debug\ConnectingToSQLServer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConnectingToSQLServer\ConnectingToSQLServer\obj\Debug\ConnectingToSQLServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ConnectingToSQLServer\ConnectingToSQLServer\obj\Debug\ConnectingToSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConnectingToSQLServer\ConnectingToSQLServer\obj\Debug\ConnectingToSQLServer.exe
+C:\Users\User\source\repos\ConnectingToSQLServer\ConnectingToSQLServer\obj\Debug\ConnectingToSQLServer.pdb
