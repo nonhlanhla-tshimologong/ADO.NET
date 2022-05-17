@@ -130,6 +130,19 @@
             "rid": "win"
           }
         }
+      },
+      "AccessLayer2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "System.Data.SqlClient": "4.8.3"
+        },
+        "compile": {
+          "bin/placeholder/AccessLayer2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccessLayer2.dll": {}
+        }
       }
     }
   },
@@ -446,10 +459,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "AccessLayer2/1.0.0": {
+      "type": "project",
+      "path": "../AccessLayer2/AccessLayer2.csproj",
+      "msbuildProject": "../AccessLayer2/AccessLayer2.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "AccessLayer2 >= 1.0.0",
       "System.Data.SqlClient >= 4.8.3"
     ]
   },
@@ -460,11 +479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\selfADOconnection\\AccessLayer\\AccessLayer.csproj",
-      "projectName": "AccessLayer",
-      "projectPath": "C:\\Users\\User\\source\\repos\\selfADOconnection\\AccessLayer\\AccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\selfADOconnection\\selfADOconnection\\selfADOconnection.csproj",
+      "projectName": "selfADOconnection",
+      "projectPath": "C:\\Users\\User\\source\\repos\\selfADOconnection\\selfADOconnection\\selfADOconnection.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\selfADOconnection\\AccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\selfADOconnection\\selfADOconnection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -484,7 +503,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\User\\source\\repos\\selfADOconnection\\AccessLayer2\\AccessLayer2.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\selfADOconnection\\AccessLayer2\\AccessLayer2.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
