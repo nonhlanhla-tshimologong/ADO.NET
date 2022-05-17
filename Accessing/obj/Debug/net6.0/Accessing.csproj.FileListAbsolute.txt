@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\usingStatementDeclaration\Accessing\bin\Debug\net6.0\Accessing.deps.json
+C:\Users\User\source\repos\usingStatementDeclaration\Accessing\bin\Debug\net6.0\Accessing.dll
+C:\Users\User\source\repos\usingStatementDeclaration\Accessing\bin\Debug\net6.0\Accessing.pdb
+C:\Users\User\source\repos\usingStatementDeclaration\Accessing\obj\Debug\net6.0\Accessing.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\usingStatementDeclaration\Accessing\obj\Debug\net6.0\Accessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\usingStatementDeclaration\Accessing\obj\Debug\net6.0\Accessing.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\usingStatementDeclaration\Accessing\obj\Debug\net6.0\Accessing.AssemblyInfo.cs
+C:\Users\User\source\repos\usingStatementDeclaration\Accessing\obj\Debug\net6.0\Accessing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\usingStatementDeclaration\Accessing\obj\Debug\net6.0\Accessing.dll
+C:\Users\User\source\repos\usingStatementDeclaration\Accessing\obj\Debug\net6.0\refint\Accessing.dll
+C:\Users\User\source\repos\usingStatementDeclaration\Accessing\obj\Debug\net6.0\Accessing.pdb
+C:\Users\User\source\repos\usingStatementDeclaration\Accessing\obj\Debug\net6.0\ref\Accessing.dll
